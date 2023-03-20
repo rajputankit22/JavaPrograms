@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Sumn {
+class SumOfNnatural {
 	public static void main(String args[]){
 		//Scanner object for capturing the user input
         Scanner scanner = new Scanner(System.in);
