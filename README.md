@@ -3,11 +3,11 @@ Basic codes in java
 
 ```
 https://www.edureka.co/blog/java-programs/
-1. Sum of n natural number
-2. Calculator
+1. Sum of n natural number  +
+2. Calculator +
 3. Prime number
-4. Factorial
-5. 
+4. Factorial +
+5. Fibonacci Series
 ```
 
 NodeJs Interview Questions

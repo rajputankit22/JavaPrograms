@@ -9,7 +9,7 @@ class Factorial {
 		System.out.println("factorila is = " + fact);
 	}
 
-	static int factorial(int n) {
+	public static int factorial(int n) {
 		if (n <= 0)
 			return 1;
 		return factorial(n - 1) * n;
