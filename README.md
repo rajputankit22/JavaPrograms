@@ -46,3 +46,11 @@ Q 23 Subarray Sum Divisible K
 Q 24 Print all Possible Combinations of r Elements in a Given Array of Size n
 Q 25 Mo's Algorithm
 ```
+
+Manu DS
+
+75 Questions Grind
+https://lnkd.in/d_uWUggG
+
+Famous 75 Questions of Leetcode
+https://lnkd.in/d2ZxbtRw
